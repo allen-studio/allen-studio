@@ -1,4 +1,6 @@
-# Allen Lin / 林杰
+# Allen Studio
+
+**by Allen Lin / 林杰**
 
 把真实工作流沉淀为可复用的 AI 工具与开源资产。
 
@@ -16,7 +18,7 @@ Turning real-world workflows into reusable AI tools and open-source assets.
 
 ## 开源项目 / Open Source
 
-### [feishu-talk-deck](https://github.com/kuangyeyouth/feishu-talk-deck)
+### [feishu-talk-deck](https://github.com/allen-studio/feishu-talk-deck)
 
 用 AI 生成飞书在线演讲型 PPT：内容写成结构化数据，版式与配色由代码保证，几何错误在生成前拦截。
 
